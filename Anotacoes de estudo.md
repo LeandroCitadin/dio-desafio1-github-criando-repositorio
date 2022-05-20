@@ -23,15 +23,19 @@
 
 ## Comandos Básicos:
 
-* ls/dir -> Listagem de diretórios da pasta em que estamos situados
-* cd/cd .. -> Avançar ou regredir de nível entre os diretórios da pasta em que estamos situados
-* clear/ctrl+L -> Limppar a tela de códigos
-* tecla TAB -> Completa automaticamente o comando a partir da primeira letra inserida
-* mkdir -> Cria diretório
-* rmdir -> Remove diretório
-* openssl sha1 -> exibe o código de encriptação de 40 caracteres referente ao arquivo em questão
-* git init -> É um comando único que você usa durante a configuração inicial de um novo repositório
-* ls -a -> Exibi arquivos ocultos (ex: .git)
+* ls/dir -> Listagem de diretórios da pasta em que estamos situados;
+* cd/cd .. -> Avançar ou regredir de nível entre os diretórios da pasta em que estamos situados;
+* clear/ctrl+L -> Limppar a tela de códigos;
+* tecla TAB -> Completa automaticamente o comando a partir da primeira letra inserida;
+* mkdir -> Cria diretório;
+* rmdir -> Remove diretório;
+* openssl sha1 -> exibe o código de encriptação de 40 caracteres referente ao arquivo em questão;
+* git init -> É um comando único que você usa durante a configuração inicial de um novo repositório;
+* ls -a -> Exibi arquivos ocultos (ex: .git);
+* git status -> exibi o status do arquivo e suas modificações;
+* mv -> mover arquivos entre os diretórios;
+* git add <file> -> adiciona um arquivo específico na repositório local;
+* git add * -> Adiciona todos arquivos do diretório no repositório local;
 
 
 
